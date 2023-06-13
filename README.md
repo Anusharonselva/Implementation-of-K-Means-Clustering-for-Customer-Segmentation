@@ -66,16 +66,26 @@ plt.title("Customer Segmets")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
-![13 1](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/a1281767-bb24-484c-9ec6-c3b13d9496b3)
 
-![14 1](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/5e1f9047-344b-49b6-870e-2731cd642e5d)
+data.info():
+
+![Screenshot (304)](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/db274c99-da43-4f2c-af96-9878acf42887)
+
+data.isnull().sum() function
+
+![Screenshot (305)](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/4d1da04f-760a-401b-b6a2-ea0dfb6d0b2c)
+
+Elbow method graph:
 
 ![15 1](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/e3bd352c-cd0a-4ac3-a8e9-7602de28049f)
 
+KMeans clusters
+
 ![17 1](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/6f047290-e9a4-47df-93b9-4ada3e9046d5)
 
-![18 1](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/3ae17c50-515c-417f-9bf9-8f7264951d69)
+y_predict
+
+![Screenshot (306)](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/d95861ac-5146-49e1-8c56-b0e85bc2a3f5)
 
 ![19 1](https://github.com/Anusharonselva/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119405600/a9829904-d067-4799-9a41-437ff45069c6)
 
